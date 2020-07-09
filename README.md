@@ -1,6 +1,6 @@
-### Hi, thanks for checking out my GitHub profile 🐝
+## Hi, thanks for checking out my GitHub profile 🐝
 
-#Find out more about me [here](https://rosshill.netlify.app/)
+### Find out more about me [here](https://rosshill.netlify.app/)
 
 <!--
 **rossghill/rossghill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
